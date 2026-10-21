@@ -1,3 +1,9 @@
+<<<<<<< Updated upstream
 osama
 Bugs on the app urgent
 //----> [code] ---> bugs fixed
+=======
+Osama
+
+ // ---> Login feature
+>>>>>>> Stashed changes
